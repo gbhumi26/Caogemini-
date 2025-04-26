@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('Clone Repository') {
             steps {
-                git branch: 'main', url: 'https://github.com/mohitsingh0008/Node_JS-Application'
+                git branch: 'main', url: 'https://github.com/gbhumi26/Caogemini-/tree/main/Node_JS-Application-main'
             }
         }
 
