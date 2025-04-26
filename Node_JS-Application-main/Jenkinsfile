@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        IMAGE_NAME = 'mohitsingh0001/node-docker-app'
+        IMAGE_NAME = 'gbhumi26/node-docker-app'
     }
 
     stages {
